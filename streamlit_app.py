@@ -18,3 +18,6 @@ if clicked_button:
 
 st.write(st.session_state['number'])
 
+
+st.write(st.session_state['number'])
+
